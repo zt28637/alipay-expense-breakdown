@@ -19,6 +19,8 @@
     ├── expense_breakdown.py        ← 核心处理脚本（影刀调用入口）
     ├── run_demo.py                 ← 本地运行 / 自测入口
     ├── 测试指南.md                  ← 测试与核验说明
+    ├── docs/
+    │   └── 影刀流程转录.md          ← main 画布 35 块 + read_csv CodeFlow
     └── 作业素材/
         ├── 源文件/
         │   └── demo_account_202512_账务明细.csv

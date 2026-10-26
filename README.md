@@ -33,6 +33,7 @@
 │   ├── expense_breakdown.py        # 核心脚本（影刀调用入口）
 │   ├── run_demo.py                 # 本地运行 / 自测入口
 │   ├── 测试指南.md                  # 逐科目核对表
+│   ├── docs/影刀流程转录.md         # 影刀画布 35 块 + CodeFlow 源码
 │   └── 作业素材/                    # 源数据、匹配表、结果表
 ├── AGENTS.md                       # 架构与踩坑记录
 └── RENAME.md                       # 命名与脱敏规范
